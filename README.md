@@ -1,4 +1,4 @@
-<h1 align="center">Apprentis dev de suisse 🫕</h1>
+<h1 align="center">dev de suisse 🫕</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimmarley420&label=Profile%20views&color=290eb4&style=flat" alt="jimmarley420" /> </p>
 
